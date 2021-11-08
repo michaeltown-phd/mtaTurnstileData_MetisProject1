@@ -1,5 +1,5 @@
 # mtaTurnstileDataProject1
-an exploratory data analysis project demonstrating basic compositing and display using MTA turnstile data.
+an exploratory data analysis project demonstrating basic compositing and display in python using MTA turnstile data.
 
 
 This respository contains three files. 
